@@ -55,4 +55,3 @@ view(state = stateSpec(
   labels = c("panelKey", "Species")))
 }
 }
-

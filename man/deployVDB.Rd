@@ -50,4 +50,3 @@ makeDisplay(d, name = "sl_vs_sw",
 deployVDB(appName = "deployVDB-example")
 }
 }
-

@@ -46,4 +46,3 @@ view(name = "iris_sl_sw")
 \seealso{
 \code{\link{cog}}
 }
-

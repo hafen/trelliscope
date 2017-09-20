@@ -29,4 +29,3 @@ Convert a VDB to be usable with the new Trelliscope viewer (experimental)
 \details{
 This is an experimental function that allows experimentation with the next generation Trelliscope viewer (\url{https://github.com/hafen/trelliscopejs}).
 }
-

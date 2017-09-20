@@ -19,4 +19,3 @@ plot(1:10)
 dev.off()
 encodePNG(f)
 }
-

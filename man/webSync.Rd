@@ -56,4 +56,3 @@ browseURL("http://myshinyserver.org:3838/myapp")
 \seealso{
 \code{\link{webConn}}, \code{\link{syncLocalData}}
 }
-

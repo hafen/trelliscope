@@ -73,4 +73,3 @@ view(name = "ts_index_year")
 \seealso{
 \code{\link{makeDisplay}}, \code{\link{cogRange}}, \code{\link{cogMean}}, \code{\link{cogScagnostics}}, \code{\link{cogLoessRMSE}}
 }
-

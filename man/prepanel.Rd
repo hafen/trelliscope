@@ -55,4 +55,3 @@ irisLims <- setLims(irisPre, x = "same", y = "sliced")
 \code{\link{x}}
 \code{\link{plot.trsPre}}, \code{\link{setLims}}, \code{\link{makeDisplay}}
 }
-

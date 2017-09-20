@@ -76,4 +76,3 @@ Other display_manipulation: \code{\link{cleanupDisplays}},
   \code{\link{getDisplay}}, \code{\link{listDisplays}},
   \code{\link{removeDisplay}}, \code{\link{restoreDisplay}}
 }
-

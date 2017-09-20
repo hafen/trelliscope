@@ -35,4 +35,3 @@ Connecting to a VDB is required prior to calling \code{\link{makeDisplay}} or \c
 conn <- vdbConn(tempfile(), name = "myvdb", autoYes = TRUE)
 conn
 }
-

@@ -46,4 +46,3 @@ list.files(getVdbPath())
 \seealso{
 \code{\link{webSync}}, \code{\link{webConn}}
 }
-

@@ -2,8 +2,8 @@
 % Please edit documentation in R/trelliscope-package.R
 \docType{package}
 \name{trelliscope-package}
-\alias{trelliscope}
 \alias{trelliscope-package}
+\alias{trelliscope}
 \title{Trelliscope: Create and Navigate Large Multi-Panel Visual Displays}
 \description{
 An extension of Trellis Display that enables creation,
@@ -29,4 +29,3 @@ help(package = trelliscope)
 Ryan Hafen
 }
 \keyword{package}
-

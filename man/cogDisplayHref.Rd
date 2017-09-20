@@ -72,4 +72,3 @@ view("state_time_CI")
 \seealso{
 \code{\link{validateState}}, \code{\link{cogHref}}
 }
-

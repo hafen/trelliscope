@@ -12,4 +12,3 @@ Get instructions on how to install phantomjs
 \examples{
 phantomInstall()
 }
-

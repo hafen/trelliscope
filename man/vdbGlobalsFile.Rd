@@ -26,4 +26,3 @@ save(foo, file = globalsPath())
 \author{
 Jeremiah Rounds
 }
-

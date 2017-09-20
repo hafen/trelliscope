@@ -54,4 +54,3 @@ Wilkinson, L., Anushka A., and Grossman, R. L. "Graph-Theoretic Scagnostics." IN
 \seealso{
 \code{\link{splod}}, \code{\link{splodPanelFn}}
 }
-

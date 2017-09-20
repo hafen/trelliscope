@@ -43,4 +43,3 @@ state <- validateState(state, checkDisplay = FALSE)
 
 makeStateHash(state)
 }
-

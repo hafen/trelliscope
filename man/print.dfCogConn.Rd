@@ -14,4 +14,3 @@
 \description{
 Print a dfCogConn object
 }
-

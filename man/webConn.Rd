@@ -51,4 +51,3 @@ browseURL("http://myshinyserver.org:3838/myapp")
 \seealso{
 \code{\link{webSync}}
 }
-

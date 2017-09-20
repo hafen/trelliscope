@@ -24,4 +24,3 @@ vdbCopyRSource(".") # copies R files from current directory
 \author{
 Jeremiah Rounds
 }
-

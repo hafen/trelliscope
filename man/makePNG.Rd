@@ -33,4 +33,3 @@ Make a png for a subset of an object of class "ddo" or "ddf".  The user should n
 \seealso{
 \code{\link{makeDisplay}}
 }
-

@@ -70,4 +70,3 @@ Other display_manipulation: \code{\link{getDisplay}},
   \code{\link{listDisplays}}, \code{\link{removeDisplay}},
   \code{\link{restoreDisplay}}, \code{\link{updateDisplay}}
 }
-

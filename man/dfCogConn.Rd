@@ -21,4 +21,3 @@ This should never need to be called explicitly.  It is the default mechanism for
 \seealso{
 \code{\link{makeDisplay}}
 }
-

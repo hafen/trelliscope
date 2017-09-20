@@ -117,4 +117,3 @@ view("state_time_CI")
 \seealso{
 \code{\link{prepanel}}, \code{\link{setLims}}, \code{\link{divide}}
 }
-

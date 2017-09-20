@@ -13,4 +13,3 @@ Get Current VDB Path
 vdbConn(tempfile(), autoYes = TRUE)
 getVdbPath()
 }
-

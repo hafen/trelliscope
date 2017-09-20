@@ -53,4 +53,3 @@ irisLims <- setLims(irisPre, x = "same", y = "sliced")
 \seealso{
 \code{\link{prepanel}}, \code{\link{makeDisplay}}
 }
-

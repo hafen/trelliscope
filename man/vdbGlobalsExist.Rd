@@ -21,4 +21,3 @@ vdbGlobalsExist()
 \author{
 Jeremiah Rounds
 }
-

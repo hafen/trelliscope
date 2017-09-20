@@ -52,4 +52,3 @@ view(name = "ts_index_year")
 \seealso{
 \code{\link{cog}}
 }
-

@@ -25,4 +25,3 @@ cogScagnostics(iris$Sepal.Length, iris$Sepal.Width)
 \seealso{
 \code{\link{cog}}
 }
-

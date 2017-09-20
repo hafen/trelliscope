@@ -35,4 +35,3 @@ makeStateHash(state)
 \seealso{
 \code{\link{validateState}}
 }
-

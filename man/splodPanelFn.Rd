@@ -52,4 +52,3 @@ Wilkinson, L., Anushka A., and Grossman, R. L. "Graph-Theoretic Scagnostics." IN
 \seealso{
 \code{\link{splodCogFn}}, \code{\link{splod}}, \code{\link{makeSplodData}}
 }
-

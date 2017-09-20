@@ -42,4 +42,3 @@ makeStateHash(state)
 \seealso{
 \code{\link{view}}, \code{\link{cogDisplayHref}}
 }
-

@@ -35,4 +35,3 @@ xyplot(c(1:10) ~ c(1:10) | sample(letters[1:2], 10, replace = TRUE),
 \seealso{
 \code{\link[lattice]{xyplot}}, \code{\link{makeDisplay}}
 }
-

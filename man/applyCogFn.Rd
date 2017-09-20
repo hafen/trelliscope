@@ -37,4 +37,3 @@ applyCogFn(cogFn, d[[1]])
 \seealso{
 \code{\link{cog}}, \code{\link{makeDisplay}}
 }
-
